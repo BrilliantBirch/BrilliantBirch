@@ -14,14 +14,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href=""></a></li>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=BrilliantBirch&show_icons=true&locale=en" alt="BrilliantBirch" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BrilliantBirch&" alt="BrilliantBirch" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrilliantBirch&show_icons=true&locale=en&layout=compact" alt="BrilliantBirch" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BrilliantBirch" alt="BrilliantBirch" /></a></p>
-
 
 <!--
 **MRMcBaicn/MRMcBaicn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
